@@ -1,0 +1,2 @@
+# Rate-Monotonic-Scheduling
+Implement a program using C or C++ language to determine whether a given set of processes can be completed within the deadline if they are scheduled using the Rate-Monotonic (RM) algorithm. The total number of processes, period of each process, and CPU burst time of each process should be taken as user inputs. The priority of each process is depending on the period of that process. Furthermore, note that the rate-monotonic scheduling assumes that the processing time of a periodic process is the same for each CPU burst
